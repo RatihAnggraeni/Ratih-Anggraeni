@@ -5,7 +5,7 @@ Latihan Membuat Portofolio
 
 Perkenalkan nama saya **Ratih Anggraeni**.<br>
 
-Saya seorang **Mahasiswa** di [Universitas](https://www.amikompurwokerto.ac.id/).<br>
+Saya seorang **Mahasiswa** di [Universitas Amikom Purwokerto](https://www.amikompurwokerto.ac.id/).<br>
 
 Saya sedang belajar pada studi independen Bangkit yang bekerjasama dengan Dicoding.<br>
 
