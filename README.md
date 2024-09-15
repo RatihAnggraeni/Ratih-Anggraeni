@@ -1,19 +1,16 @@
 # Ratih-Anggraeni
-Latihan Membuat Portofolio
 
-# Halo semua! 👋
+# Hello everyone!👋
 
+Let me introduce myself, my name is **Ratih Anggraeni**.<br>
 
-Perkenalkan nama saya **Ratih Anggraeni**.<br>
+I am a **Student** at [Amikom University Purwokerto](https://www.amikompurwokerto.ac.id/).<br>
 
-Saya seorang **Mahasiswa** di [Universitas Amikom Purwokerto](https://www.amikompurwokerto.ac.id/).<br>
+I am currently studying in the Bangkit independent study in collaboration with Dicoding.<br>
 
-Saya sedang belajar pada studi independen Bangkit yang bekerjasama dengan Dicoding.<br>
+I am also active as a Teaching Assistant in several courses.<br>
 
-Saya juga aktif sebagai Asisten Dosen pada bebetapa mata kuliah.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ratih-anggraeni-b136b2274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)ku ya.
-
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/ratih-anggraeni-b136b2274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) account.
 
 <p align="left">
 <a href="https://github.com/RatihAnggraeni">
