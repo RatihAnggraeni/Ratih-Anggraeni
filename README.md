@@ -1,7 +1,7 @@
 # Ratih-Anggraeni
 Latihan Membuat Portofolio
 
-# Halo semua! ![image](https://github.com/user-attachments/assets/334113d4-b85e-4fc0-9f34-598404f7c2c3)
+# Halo semua! 
 
 
 Perkenalkan nama saya **Ratih Anggraeni**.<br>
